@@ -1,6 +1,7 @@
 # CryptoTracker
 
-A quick project using @coingecko API, HTML, CSS AND JS
+A quick project using @coingecko.com API <br>
+HTML, CSS AND JS
 
 <hr>
 
